@@ -1,0 +1,10 @@
+{
+  "name": "Мій НМТ 2027",
+  "short_name": "Мій НМТ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff7fa",
+  "theme_color": "#f6dce8",
+  "lang": "uk",
+  "description": "Трекер підготовки до НМТ з чотирьох предметів"
+}
